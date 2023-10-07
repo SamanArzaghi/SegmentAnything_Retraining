@@ -1,1 +1,2 @@
-# SegmentAnything_Retraining
+# SegmentAnything Retraining With Custome data-set
+In this project, we embark on the task of retraining a segmentation model using a custom dataset tailored to our specific needs. Segmentation is a fundamental computer vision task that involves partitioning an image into distinct regions or segments, each corresponding to a meaningful object or area. To achieve accurate and context-aware segmentations, it is essential to adapt existing models to the unique characteristics of our dataset.
